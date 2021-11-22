@@ -1,4 +1,4 @@
-FROM ayeshariyaz/web
+FROM hshar/webapp
 
 ADD ./index.html /var/www/html
 
